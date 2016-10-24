@@ -12,12 +12,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_c5ad183b24cb8815148e8dcae182acb3704ff199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01c3ee3f663c41df0563d07aaf6e2bc397618c37">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e9e95c0acc7961e89278e825bbee968a815a1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3230addfaa8848f763e67fc8d36f140cf1027c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e35dffbcce52fb9737aaffad98db85b63d765cb8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,12 +57,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_664ffe9cd89cbe04cb2c21a31d4af87a47982db6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_928229534573a713c1bef3db80bd31afeb3d9d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f70f7ab612d14520389216770405dbe723fd4068/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0e85d86d5ea1f56294abe42707b620d9869d3943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd15bad4d011a1d095d683bd01579d776bc5d15a">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_42e5faabdc2ba78cae4d83a8a49dc35f8f45e6c4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,12 +111,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f18a5662c725d0ed3b7caf2ea8a5d05890501109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/BT/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
         <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_252a79c1a19886b2a3bc84fd9ee0caa2cb33e972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_637761b29611aa79cd77571cfaf309b76a08ba6d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -81,6 +162,24 @@
         revision="24.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_21fb1fde657dda2462d583010601432d6a40ad65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a68c040b761f816aecf271aedfc86a0e2da301f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f93fe0443c854a473abcb085e64655beb5ca1ae4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,12 +219,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e155d32f255434db899dc4439f04106a976eec10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="1f2d61d2a199b2cf6f41a2defcb2468cd7459a7e">
         <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8441ef63cd125213e29758fb1e2c5940ff8e2cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e288e8189768e176f58cdfc615b532c136562d6e/classes.dex" />
     </item>
 
 </items>

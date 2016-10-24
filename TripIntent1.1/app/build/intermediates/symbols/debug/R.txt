@@ -1,6 +1,4 @@
 int drawable ic_launcher 0x7f020000
-int id demo_collection_button 0x7f050002
-int id demo_external_activity 0x7f050003
 int id pager 0x7f050000
 int id pager_title_strip 0x7f050001
 int layout activity_collection_demo 0x7f030000

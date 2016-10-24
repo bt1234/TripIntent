@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 98
                 },
                 "from": {
-                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "file": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "file": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 232
                 },
                 "from": {
-                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "file": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 316
                 },
                 "from": {
-                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "file": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,

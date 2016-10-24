@@ -5,32 +5,32 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="422407435998107"
-    token="-8932749693391128555"
+    timestamp="424636810936229"
+    token="-7643872647232293934"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="240" />
+        duration="329" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="151" />
+        duration="104" />
     <task
         name="verifier"
-        duration="9" />
+        duration="6" />
 
     <artifact
-        location="/Users/BT/Downloads/EffectiveNavigation 21/app/build/outputs/apk/app-debug.apk"
+        location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="422407435998107"
+        timestamp="424636810936229"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/BT/Downloads/EffectiveNavigation 21/app/build/outputs/apk/app-debug.apk"
+            location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
