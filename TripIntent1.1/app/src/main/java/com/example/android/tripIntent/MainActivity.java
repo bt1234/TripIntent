@@ -173,7 +173,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
     public static class MapSectionFragment extends Fragment {
 
-        public static final String ARG_SECTION_NUMBER = "section_number";
+       
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
