@@ -1,0 +1,4 @@
+#Mon Oct 24 12:23:04 PDT 2016
+base.0=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
