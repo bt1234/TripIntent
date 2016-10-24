@@ -5,30 +5,30 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="424636810936229"
+    timestamp="428056071475020"
     token="-7643872647232293934"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="329" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="104" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
         location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="424636810936229"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="428056071475020"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />

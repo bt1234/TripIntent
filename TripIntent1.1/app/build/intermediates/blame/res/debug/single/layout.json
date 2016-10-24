@@ -1,22 +1,18 @@
 [
     {
-        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/fragment_section_dummy.xml",
-        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/fragment_section_dummy.xml"
-    },
-    {
-        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/activity_collection_demo.xml",
-        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/activity_collection_demo.xml"
-    },
-    {
         "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/fragment_collection_object.xml",
-        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/fragment_collection_object.xml"
+        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/photo_section.xml",
+        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/photo_section.xml"
     },
     {
-        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/fragment_section_launchpad.xml",
-        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/fragment_section_launchpad.xml"
+        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/chat.xml",
+        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/chat.xml"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/map_section.xml",
+        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/map_section.xml"
     }
 ]

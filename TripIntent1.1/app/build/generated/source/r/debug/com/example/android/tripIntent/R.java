@@ -15,19 +15,14 @@ public final class R {
     }
     public static final class id {
         public static final int pager=0x7f050000;
-        public static final int pager_title_strip=0x7f050001;
     }
     public static final class layout {
-        public static final int activity_collection_demo=0x7f030000;
-        public static final int activity_main=0x7f030001;
-        public static final int fragment_collection_object=0x7f030002;
-        public static final int fragment_section_dummy=0x7f030003;
-        public static final int fragment_section_launchpad=0x7f030004;
+        public static final int activity_main=0x7f030000;
+        public static final int chat=0x7f030001;
+        public static final int map_section=0x7f030002;
+        public static final int photo_section=0x7f030003;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
-        public static final int demo_collection=0x7f040001;
-        public static final int demo_external_activity=0x7f040002;
-        public static final int dummy_section_text=0x7f040003;
     }
 }
