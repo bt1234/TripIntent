@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0ca739105ff9eb6aa043394dfe230ca841e05af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3230addfaa8848f763e67fc8d36f140cf1027c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d1e640e207428be96a5a30c36d22acabc8aec12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0e85d86d5ea1f56294abe42707b620d9869d3943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="875487fc8ce33ed03dc43337d4c02e00a477ca4a">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61d22afc22ddb765c5c6a3d6ccfd590795a5f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_252a79c1a19886b2a3bc84fd9ee0caa2cb33e972/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ba65704ab95d6c5c62268db99c94ba7b7c3b1003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_95589e1dd8f5ba6bc07d759352a8c0d29150cf20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_21fb1fde657dda2462d583010601432d6a40ad65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_873c6c06ebd62e2b353a0ca8a012a8268a793f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_0dd9151a26d9407bd9cea7416ad4b55068ea0fe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_be630d98214284b50a6d4e07e00f0f4885acd636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_bcb43124811a43466f2ae9ec26b3b84563feec92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f2d61d2a199b2cf6f41a2defcb2468cd7459a7e">
+        <dex dex="/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8441ef63cd125213e29758fb1e2c5940ff8e2cfd/classes.dex" />
+    </item>
+
+</items>

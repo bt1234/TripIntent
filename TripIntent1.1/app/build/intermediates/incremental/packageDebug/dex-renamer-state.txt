@@ -1,0 +1,7 @@
+#Mon Oct 24 12:30:30 PDT 2016
+base.0=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8441ef63cd125213e29758fb1e2c5940ff8e2cfd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61d22afc22ddb765c5c6a3d6ccfd590795a5f1/classes.dex
+base.1=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3c61d22afc22ddb765c5c6a3d6ccfd590795a5f1
+file.0=/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8441ef63cd125213e29758fb1e2c5940ff8e2cfd/classes.dex

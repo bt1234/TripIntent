@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/BT/Downloads/EffectiveNavigation 21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 47,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 59,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 59,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 73,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 73,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 83,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/BT/Downloads/EffectiveNavigation 21/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 83,
+                        "endOffset": 748
+                    }
+                }
+            }
+        ]
+    }
+]
