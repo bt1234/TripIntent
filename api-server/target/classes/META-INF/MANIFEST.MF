@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Troopers
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramyaguduru
+Implementation-Vendor-Id: edu.npu
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/troopers/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
