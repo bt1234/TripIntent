@@ -120,7 +120,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
         @Override
         public int getCount() {
-            return 3;
+            return 4;
         }
 
         @Override
@@ -133,6 +133,9 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
             }
             if(position == 2){
                 return "Map";
+            }
+            if(position == 3){
+                return "Expense";
             }
 
 

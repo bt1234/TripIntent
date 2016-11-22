@@ -5,26 +5,26 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="4818359705312"
+    timestamp="5165723404930"
     token="-7643872647232293934"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="189" />
+        duration="223" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="120" />
+        duration="30" />
     <task
         name="verifier"
-        duration="11" />
+        duration="1" />
 
     <artifact
-        location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
 
     <build
         timestamp="4818359705312"
@@ -32,6 +32,13 @@
         <artifact
             location="/Users/BT/TripIntent/TripIntent1.1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="5165723404930"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
