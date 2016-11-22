@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e71373e7e5e2f88d0f79c6b2014673cb0d2ed0fa">
+        sha1="411831be30c66441eedc8514c94e6aa7491023b1">
         <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e9e95c0acc7961e89278e825bbee968a815a1d9/classes.dex" />
     </item>
     <item
@@ -97,7 +97,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="dd15bad4d011a1d095d683bd01579d776bc5d15a">
+        sha1="8458300dd2f5c57bd7c901632aa19a8a584cc912">
         <dex dex="/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_42e5faabdc2ba78cae4d83a8a49dc35f8f45e6c4/classes.dex" />
     </item>
     <item

@@ -1,4 +1,4 @@
-#Mon Oct 24 14:04:22 PDT 2016
+#Tue Nov 22 10:04:57 PST 2016
 base.0=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8e9e95c0acc7961e89278e825bbee968a815a1d9
 renamed.1=classes2.dex
 renamed.0=classes.dex

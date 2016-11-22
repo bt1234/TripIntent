@@ -12,6 +12,10 @@
         "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/chat.xml"
     },
     {
+        "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/merged/debug/layout/map_section.xml",
         "source": "/Users/BT/TripIntent/TripIntent1.1/app/src/main/res/layout/map_section.xml"
     }

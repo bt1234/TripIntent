@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Oct 24 14:04:23 PDT 2016
+#Tue Nov 22 10:04:58 PST 2016
 25.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex
 25.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
 22.set=DEX
@@ -11,7 +11,7 @@
 30.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_
 14.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
 16.set=DEX
-count=31
+count=32
 6.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
 6.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_
 26.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_/res/layout/photo_section.xml
@@ -24,7 +24,9 @@ count=31
 7.set=DEX
 20.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a68c040b761f816aecf271aedfc86a0e2da301f
 10.set=ANDROID_RESOURCE
+31.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_login.xml
 15.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_/res/layout/map_section.xml
+31.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_
 15.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_
 26.set=ANDROID_RESOURCE
 7.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_928229534573a713c1bef3db80bd31afeb3d9d0c/classes.dex
@@ -35,6 +37,7 @@ count=31
 1.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
 1.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/res/resources-debug.ap_
 1.set=ANDROID_RESOURCE
+31.set=ANDROID_RESOURCE
 21.file=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_252a79c1a19886b2a3bc84fd9ee0caa2cb33e972/classes.dex
 21.base=/Users/BT/TripIntent/TripIntent1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_252a79c1a19886b2a3bc84fd9ee0caa2cb33e972
 20.set=DEX
